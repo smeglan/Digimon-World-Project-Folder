@@ -1,5 +1,8 @@
 # Listado de Digimon exclusivos de Digimon World 2
 
+NOTA IMPORTANTE: 
+- En los casos donde 2 Digimon existan en ambos juegos con modelos diferentes, como por ejemplo: Metal Garurumon y War Greymon, es preferible usar los modelos de Digimon Digital Card Battle ya que guarda una estética más cercana al resto de modelos de Digimon World 1
+
 ## Rookie / Novato
 - Candlemon
 - Crabmon
@@ -93,7 +96,7 @@
 - SkullMammothmon
 - VenomMyotismon
 
-# Listado de Digimon exclusivos de Digimon World 2
+# Listado de Digimon exclusivos de Digimon Digital Card Battle
 
 ## Rookie / Novato
 - Hawkmon
