@@ -1,4 +1,4 @@
-# Listado de Digimon de Digimon World 2
+# Listado de Digimon exclusivos de Digimon World 2
 
 ## Rookie / Novato
 - Candlemon
@@ -16,8 +16,10 @@
 
 ## Champion / Campeón
 - Flamedramon
+- Apemon
 - Hanumon
 - Rukamon
+- Raremon
 - Clockmon
 - Cyclomon
 - DarkLizardmon
@@ -33,6 +35,7 @@
 - Starmon
 - Togemon
 - Tortomon
+- Tuskmon
 - Veedramon
 - Wizardmon
 - Woodmon
@@ -53,10 +56,12 @@
 - MasterTyrannomon
 - MegaKabuterimon
 - MetalTyranomon
+- MetalGreymon (Vacuna)
 - Nanomon
 - Okuwamon
 - Phantomon
 - Pumpkinmon
+- Kimeramon
 - Raidramon
 - Scorpiomon
 - SkullMeramon
@@ -71,7 +76,7 @@
 - Boltmon
 - Diaboromon
 - GranKuwagamon
-- Gryphonmon
+- Gryphomon
 - Holydramon
 - Imperialdramon
 - MarineAngemon
@@ -87,3 +92,54 @@
 - Seraphimon
 - SkullMammothmon
 - VenomMyotismon
+
+# Listado de Digimon exclusivos de Digimon World 2
+
+## Rookie / Novato
+- Hawkmon
+- Armadillomon
+- Wormmon
+- Salamon
+- Kokuwamon
+
+## Champion / Campeón
+- Shurimon
+- Halsemon
+- Submarimon
+- Digmon
+- Gatomon
+- Nefertimon
+- Tylomon
+- Pegasusmon
+- Baronmon
+- Shadramon
+- Quetzalmon
+- BomberNanimon
+- Aquilamon
+- ExVeemon
+- Sorcerimon
+- V-dramon
+- Sylphymon
+- Stingmon
+- ShellNumemon
+- Ankylomon
+- Shakkoumon
+
+## Ultimate / Perfecto
+- Paildramon
+- LadyDevimon
+- Infermon
+- Shakkoumon
+- SuperStarmon
+
+
+## Mega
+- Magnamon
+- Omegamon
+- MetalGarurumon
+- WarGreymon
+- MetalSeadramon
+- Vikemon
+- Valkyrimon
+- Diaboromon
+- Apocalymon
