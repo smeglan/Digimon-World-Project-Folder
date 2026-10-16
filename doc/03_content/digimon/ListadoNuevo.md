@@ -135,7 +135,6 @@ NOTA IMPORTANTE:
 - Shakkoumon
 - SuperStarmon
 
-
 ## Mega
 - Magnamon
 - Omegamon
