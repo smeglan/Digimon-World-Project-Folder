@@ -110,7 +110,7 @@ Con la desaparición de Ogremon, la fortaleza queda abandonada.
 
 Diversos grupos intentan ocuparla.
 
-Cada cierto tiempo una facción diferente reclama el territorio.
+Cada cierto tiempo una facción diferente reclama el territorio. Cada vez que la ocupan recargan los 6 ordenadores con objetos diferentes dependiendo de la facción.
 
 ---
 
